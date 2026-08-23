@@ -1,0 +1,6 @@
+{
+  "name": "Rumah Jajanan Lashira",
+  "description": "Sistem Manajemen Usaha Makanan Lengkap: Master Bahan, Resep & HPP Otomatis, Produksi, Manajemen Stok, Kasir Penjualan, Biaya Operasional, Laba Rugi, dan Laporan Keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
